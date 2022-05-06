@@ -1,5 +1,5 @@
 def voto(a):
-    a = 2021 - ano
+    a = 2022 - ano
     if a >= 18 and a < 65:
         print(f"Com {a} anos: VOTO OBRIGATÓRIO")
         
